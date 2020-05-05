@@ -1,0 +1,14 @@
+{
+  "name": "COVID-19",
+  "version": "0.1",
+  "description": "Displays COVID-19 cases for India.",
+  "permissions": [
+    "history"
+  ],
+  "browser_action": {
+	"default_title": "COVID-19",
+    "default_popup": "data.html",
+    "default_icon": "images/covid19.png"
+  },
+  "manifest_version": 2
+}
