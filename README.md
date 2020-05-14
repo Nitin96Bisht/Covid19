@@ -6,8 +6,10 @@ COVID-19 is a chrome extenstion that displays confirmed, active, recovered and d
 ### How to add extension in Chrome Browser
 
 <ol>
-  <li>Open tab and type chrome://extensions</li>
-  <li>Click on Load unpacked button</li>
+  <li>Open tab and type chrome://extensions.</li>
+  <li>Click on Load unpacked button.</li>
+  <li>Select extension directly.</li>
+  <li>Extension will be added in your chrome browser with icon on top right.</li>
 </ol>
 
 <img src="https://i.imgur.com/XeLjVp3.png">
