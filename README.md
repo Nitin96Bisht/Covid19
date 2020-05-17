@@ -7,12 +7,13 @@ COVID-19 is a chrome extenstion that displays confirmed, active, recovered and d
 
 <ol>
   <li>Download this project or clone as shown:</li>
+  
 
   ```git clone git@github.com:Nitin96Bisht/Covid19.git```
 
-  <li>Open tab and type chrome://extensions.</li>
+  <li>Open chrome browser and type chrome://extensions in a tab.</li>
   <li>Click on Load unpacked button.</li>
-  <li>Select extension directly.</li>
+  <li>Select downloaded project.</li>
   <li>Extension will be added in your chrome browser with icon on top right.</li>
 </ol>
 
