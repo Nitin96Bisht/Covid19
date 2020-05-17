@@ -3,9 +3,13 @@ COVID-19 is a chrome extenstion that displays confirmed, active, recovered and d
 
 <img src="https://i.imgur.com/RECrSLU.png">
 
-### How to add extension in Chrome Browser
+## Installing
 
 <ol>
+  <li>Download this project or clone as shown:</li>
+
+  ```git clone git@github.com:Nitin96Bisht/Covid19.git```
+
   <li>Open tab and type chrome://extensions.</li>
   <li>Click on Load unpacked button.</li>
   <li>Select extension directly.</li>
