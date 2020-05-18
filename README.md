@@ -17,7 +17,7 @@ COVID-19 is a chrome extenstion that displays confirmed, active, recovered and d
   
   <img src="https://i.imgur.com/XeLjVp3.png">
   
-  
+  <br />
   <li>Select downloaded project.</li>
   <li>Extension will be added in your chrome browser with icon on top right.</li>
 </ol>
